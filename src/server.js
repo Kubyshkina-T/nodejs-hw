@@ -1,7 +1,7 @@
 import express from "express";
 import 'dotenv/config';
-import cors from "cors";
 import pino from "pino-http";
+import cors from "cors";
 
 
 const app = express();
