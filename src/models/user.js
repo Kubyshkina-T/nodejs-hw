@@ -8,7 +8,8 @@ const userSchema = new Schema(
     avatar: {
       type: String,
       required: false,
-      default: "https://ac.goit.global/fullstack/react/default-avatar.jpg",
+      default: "https://ac.goit.global/fullstack/react/default-avatar.jpg"
+,
     },
 
   },
