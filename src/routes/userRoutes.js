@@ -1,5 +1,3 @@
-// src/routes/userRoutes.js
-
 import { Router } from 'express';
 import { authenticate } from '../middleware/authenticate.js';
 import { updateUserAvatar } from '../controllers/userController.js';
